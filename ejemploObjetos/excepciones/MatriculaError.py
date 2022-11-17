@@ -1,0 +1,2 @@
+class MatriculaError(Exception):
+    pass

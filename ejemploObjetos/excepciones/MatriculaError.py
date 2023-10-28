@@ -1,2 +1,0 @@
-class MatriculaError(Exception):
-    pass
